@@ -1,0 +1,93 @@
+.loginBackground{
+    background-image: url('../assets/imgs/loginBackground.jpg');
+    width: 100vw;
+    background-repeat: no-repeat;
+    height: 100vh;
+    gap: 0px;
+    opacity: 0px;
+
+}
+.card {
+    width: 432px;
+    height: 395px;
+    top: 25vh;
+    left: 60vw;
+    gap: 0px;
+    border-radius: 23px 23px 23px 23px;
+    opacity: 0px;
+
+    box-shadow: 0px 6px 21px 3px #0000001A;
+
+
+    .card-title {
+        width: 69px;
+        height: 27px;
+        top: 203px;
+        left: 460px;
+        gap: 0px;
+        opacity: 0px;
+
+        // font-family: Nunito;
+        font-size: 20px;
+        font-weight: 800;
+        line-height: 27.28px;
+        letter-spacing: 0.4000000059604645px;
+        text-align: left;
+
+        color: #314349;
+
+        border-bottom: 3px solid #0B37FA
+
+    }
+}
+
+.textbox {
+    width: 360px;
+    height: 48px;
+    top: 259px;
+    left: 460px;
+    gap: 0px;
+    border-radius: 8px 8px 8px 8px;
+    opacity: 0px;
+    background: #F2F3F5;
+}
+
+.textboxParentDiv {
+    margin: 20px
+}
+
+.signInButton {
+    border: 3px solid #0B37FA;
+    width: 160px;
+    height: 48px;
+    top: 409px;
+    left: 660px;
+    gap: 0px;
+    border-radius: 8px 8px 8px 8px;
+    opacity: 0px;
+}
+
+.employeeRegistrationButton {
+    width: 360px;
+    position: static;
+    height: 48px;
+    top: 452px;
+    left: 460px;
+    gap: 0px;
+    border-radius: 8px 8px 8px 8px;
+    border: 1px solid #0B37FA;
+    opacity: 0px;
+}
+
+.parentDiv {
+    margin: 30px 6px 0px 0px;
+    text-align: -webkit-center;
+}
+
+.cardTitleParentDiv {
+    margin: 10px
+}
+
+.forgotPasswordParent {
+    align-content: center;
+}
